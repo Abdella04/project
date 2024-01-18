@@ -1,0 +1,10 @@
+for the project
+1-nav bar: 
+should have the name of the website in the left 
+should have Home/ contact us /about us/ support/
+
+
+#########
+finished
+action
+adventure
